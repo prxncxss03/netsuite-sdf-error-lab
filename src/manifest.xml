@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>Netsuite SDF Sample Deployment</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
