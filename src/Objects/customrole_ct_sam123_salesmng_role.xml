@@ -1,0 +1,20 @@
+<role scriptid="customrole_ct_sam123_salesmng_role">
+  <centertype>ACCOUNTCENTER</centertype>
+  <coreadminpermission>F</coreadminpermission>
+  <employeerestriction>NONE</employeerestriction>
+  <employeeselectionunrestricted>F</employeeselectionunrestricted>
+  <isinactive>F</isinactive>
+  <ispartnerrole>F</ispartnerrole>
+  <issalesrole>F</issalesrole>
+  <issinglesignononly>F</issinglesignononly>
+  <issupportrole>F</issupportrole>
+  <iswebserviceonlyrole>F</iswebserviceonlyrole>
+  <name>CT Sales Manager</name>
+  <parentrolescriptid></parentrolescriptid>
+  <restrictbydevice>F</restrictbydevice>
+  <restricttimeandexpenses>F</restricttimeandexpenses>
+  <subsidiaryoption>OWN</subsidiaryoption>
+  <subsidiaryviewingallowed>F</subsidiaryviewingallowed>
+  <tfaduration>0</tfaduration>
+  <tfarequired>OFF</tfarequired>
+</role>
