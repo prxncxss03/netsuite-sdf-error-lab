@@ -165,4 +165,11 @@
       <subtab></subtab>
     </customrecordcustomfield>
   </customrecordcustomfields>
+  <permissions>
+    <permission>
+      <permittedlevel>VIEW</permittedlevel>
+      <permittedrole>[scriptid=customrole_ct_sam123_salesmg_role]</permittedrole>
+      <restriction></restriction>
+    </permission>
+  </permissions>
 </customrecordtype>
