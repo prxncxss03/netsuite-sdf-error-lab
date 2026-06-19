@@ -2,9 +2,9 @@
  * @NApiVersion 2.1
  * @NScriptType UserEventScript
  */
-define([],
+define(["./ct_sam123_helper"],
     
-    () => {
+    (helper) => {
         /**
          * Defines the function definition that is executed before record is loaded.
          * @param {Object} scriptContext
@@ -17,6 +17,7 @@ define([],
         const beforeLoad = (scriptContext) => {
             log.debug("CT SAM123 UE DEMO", "Hello from CT SAM123 UE demo script");
 
+            helper.logTest();
         }
 
         /**
